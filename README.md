@@ -2,7 +2,7 @@
 
 #### DESCRIPTION:
 
-Allows printing lifetimed GUI messages on a running game instance. 
+Enables printing lifetimed GUI messages on a running game instance. 
 
 #### USAGE:
 
