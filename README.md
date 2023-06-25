@@ -6,7 +6,7 @@ Enables printing lifetimed GUI messages on a running game instance.
 
 #### USAGE:
 
-Download asset from releases page and import into your project.
+Download the asset from releases page and import into your project.
 
 Add import statement as follows:
 
